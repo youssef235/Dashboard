@@ -6,11 +6,6 @@ A new Flutter web project.
 
 This project is an Admin panel to add users to Firbase.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Dash1](https://user-images.githubusercontent.com/55225729/188482012-b3fded11-d930-401d-b2b6-b7213ee269c0.png)
+![Dash2](https://user-images.githubusercontent.com/55225729/188482015-a72ed9c8-3ca2-4229-985d-5d08bf687029.png)
+![Dash3](https://user-images.githubusercontent.com/55225729/188482018-2d1af5dd-d6a4-4bcb-8a19-81f032cddfa0.png)
