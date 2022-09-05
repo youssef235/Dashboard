@@ -1,4 +1,4 @@
-# dashboard
+# Dashboard with flutter to add users to Firbase and Firestore.
 
 A new Flutter web project.
 
