@@ -1,10 +1,10 @@
 # dashboard
 
-A new Flutter project.
+A new Flutter web project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an Admin panel to add users to Firbase.
 
 A few resources to get you started if this is your first Flutter project:
 
